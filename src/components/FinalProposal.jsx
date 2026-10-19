@@ -122,7 +122,7 @@ function FinalProposal() {
 
                     <div className="final-message">
                         <span>
-                            Dear You,
+                            Dear Mosena,
                         </span>
 
                         <p>
@@ -139,7 +139,7 @@ function FinalProposal() {
                         </strong>
 
                         <div className="signature">
-                            Forever yours ❤️
+                            Forever MI ❤️
                         </div>
                     </div>
 

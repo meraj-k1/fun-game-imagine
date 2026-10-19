@@ -4,18 +4,18 @@ import { motion, AnimatePresence } from "framer-motion";
 const questions = [
   {
     question: "Where did our story begin?",
-    options: ["Instagram", "College", "That random day", "A coincidence"],
-    answer: 2,
+    options: ["Instagram", "College", "That random day", "Train Journey"],
+    answer: 3,
   },
   {
     question: "What was the first thing I noticed about you?",
-    options: ["Your smile", "Your eyes", "Your voice", "Your attitude"],
-    answer: 0,
+    options: ["Your smile", "Your eyes", "Your voice", "Your Body Language"],
+    answer: 3,
   },
   {
     question: "Who is most likely to say 'I love you' first? ❤️",
-    options: ["Me 😌", "You 👀", "Both of us ❤️", "Nobody, we're too shy 😂"],
-    answer: 2,
+    options: ["Me 😌", "You 👀", "Both of us ❤️", "We're too shy 😂"],
+    answer: 3,
   },
   {
     question: "What makes a relationship stronger?",
